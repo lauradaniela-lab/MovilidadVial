@@ -1,1 +1,156 @@
 # MovilidadVial
+<html>
+<head meta http-equiv="content - Type" content="text/html;charset=utf - 8" />
+	<tittle> 
+<br>
+
+		<center>
+			<font size="20" color="D4524A" face="Cooper Black"> SEGURIDAD VIAL EN LA ENSB </font></center>
+<br>
+	</tittle>
+</head>
+ <hr>
+               <body bgcolor="E9C8C6">
+
+	<tittle>
+		<font size="7" color="A21F17" face="Comic Sans MS">- Encuesta:</font></tittle>
+<br><a href="encuesta.html">Ir a Encuesta</a>
+<br>
+ <hr>
+    <tittle>
+    	<font size="7" color="A21F17" face="Comic Sans MS"> - Tabulación:</font></tittle>
+<br>
+                <center> <img src ="recor.png" width="243" height="267"></center>
+<br>
+<br>
+ <hr>
+    <tittle>
+    	<font size="7" color="A21F17" face="Comic Sans MS">- Grafica:</font></tittle> 
+<br>
+<br>
+               <center> <img src ="rrr.png" ></center>
+<br>
+<br>
+ <hr>
+ <br>
+ <tittle>
+    	<em> <font size="6" color="A21F17" face="Comic Sans MS">1.Diagnostico:</font></tittle> </em>
+    	<br>
+   <p><font size="3" color="Black" face="Arial">La situación actual en la ENSB hemos visto aglomeración por parte de los estudiantes de todos los grados, en primaria los niños tienen más riesgo de estar en un accidente debido a la mala organización en las filas para comprar su alimentación. <br>
+Hay muchos niños que no tienen en cuenta que hay otros más pequeños y los empujan o les hacen derramar la lonchera. Falta organización con los estudiantes a la hora de los descansos.<br><
+Los autobuses escolares deben contar con SRI adecuados a los menores que lo utilizan.<br>
+Disponer de un estacionamiento propio y exclusivo, con visibilidad clara y donde no coincidan con peatones.<br>
+Las maniobras no se pueden ejercer hasta que los menores estén ubicados dentro del centro o del autobús.<br>
+Utilizar sistemas de control y localización de menores que aseguren la ubicación de estos, evitando la marcha si falta algún niño@ por subir o que se quede en el interior cuando ha finalizado el servicio.<br>
+Conocer los medios materiales y procedimientos de actuación de seguridad en caso de accidente. Realización de ejercicios donde todos los agentes se impliquen y sepan cuál es su función.<br>
+A la hora de la salida de la institución muchos de los estudiantes se empujan y pueden ocasionarse daño entre ellos mismos.
+<br>
+En la ENSB no se ve un buen control para los estudiantes, la mayoría no cumple con la seguridad.<br>
+No se ve un control adecuado de parte de la institución para que los estudiantes no formen un desorden.<br>
+La ENSB esta dispuesta a dar un control, pero la mayoría de los estudiantes no acatan las indicaciones que se le dan.<br></font>
+</p>
+<br>
+<tittle>
+    	<em> <font size="6" color="A21F17" face="Comic Sans MS">2.Introducción:</font></tittle> </em>
+    	<br>
+  <p><font size="3" color="Black" face="Arial">La seguridad vial está presente en muchas esferas de nuestra vida cotidiana. Buen ejemplo de ello son las aventuras con las que nos encontramos a diario en el camino hacia las escuelas.<br>
+Este es uno de los nuevos proyectos que tiene la ENSB para este año 2020.<br>
+Cuando hablamos de movilidad o de seguridad vial, nos viene a la cabeza la imagen de una autopista, vehículos, desplazamientos de larga distancia.<br>
+Hay situaciones cotidianas que están más relacionadas con la movilidad de lo que nos pensamos. Ejemplo de ello, son los desplazamientos que realizamos a diario para ir o volver al colegio. Seguro que las colas y atascos enfrente de los centros educativos, el viacrucis de aparcar en hora punta, el temor por la seguridad de los estudiantes al bajar de los vehículos, el modo de afronta esta situación entre las familias que conviven en ese medio.<br>
+La seguridad vial es uno de los temas importantes que se van a tratar en el trascurso del año ya que es muy importante saber de este, los docentes y estudiantes tienen la obligación de dar a comer y saber el tema para evitar riesgos entre los mismos estudiantes en la institución.<br>
+La movilidad vial es uno de los casos más frecuentes en la institución por ello vamos a dar a conocer la problemática y dar prontas soluciones. <br>
+La movilidad es un tema muy importante en un lugar en donde hay demasiados estudiantes, ya que se hace más complejo al momento de estar en un descanso o salir de la institución.
+<br>
+</font>
+</p>
+<br>
+ <tittle>
+    	<em> <font size="6" color="A21F17" face="Comic Sans MS">3.Justificación:</font></tittle> </em>
+    	<br>
+  <p><font size="3" color="Black" face="Arial">Este proyecto fue inspirado gracias a nuestra profesora de informática para poder avanzar con varias estrategias en cuanto a la movilización vial en nuestra Escuela Normal.<br>
+Todo esto se va hacer con el fin de evitar los distintos problemas que se han presentado en el colegio a lo largo de estos años.<br>
+Los estudiantes tendrán que cumplir una serie de normas para que todos podemos estar a gusto en la escuela y así evitar inconvenientes.<br>
+Decidimos que este proyecto seria realizado con los niños de primaria ya que son los mas pequeños y los que sufren mas riesgos que los de bachillerato.<br>
+</font>
+</p>
+<br>
+ <tittle>
+    	<em> <font size="6" color="A21F17" face="Comic Sans MS">4.Planteamiento del Problema:</font></tittle> </em>
+    	<br>
+  <p><font size="3" color="Black" face="Arial">PRINCIPALES PROBLEMAS: <br>
+1.Aglomeración de los niñ@s en la cafetería.<br>
+2.Falta de señalización.<br>
+3.Falta de orden y control en las cafeterías.<br><br>
+PROBLEMA A TRATAR:<br>
+1.Aglomeración de los niñ@s en las cafeterías.<br><br>
+CAUSAS Y CONSECUENCIAS: <br>
+1.La falta de vigilancia.<br>
+2.Falta de organización.<br>
+3.Accidentes.<br>
+4.Problemas. <br>
+</font>
+</p>
+<br>
+ <tittle>
+    	<em> <font size="6" color="A21F17" face="Comic Sans MS">5.Objetivos:</font></tittle> </em>
+    	<br>
+  <center><img src="mapa.png" width="475" height="525"></center>
+<tittle>
+    	<em> <font size="6" color="A21F17" face="Comic Sans MS">6.Antecedentes:</font></tittle> </em>
+    	<br>
+  <p><font size="3" color="Black" face="Arial">Según nuestra investigación encontramos que hay muchos estudiantes inconformes con la falta de orden en las cafeterías.<br><br>
+  	<strong>Teóricos:</strong><br>
+  	-Teorías <br>
+  	-Estudiantes<br>
+  	-“La cifra estremece: 130.000 personas mueren cada año en las Américas como resultado de la inseguridad en nuestras carreteras. Más de 1.2 millones sufren heridas.”<br><br>
+  	<strong>De campo:</strong>Tabulación y grafica de encuesta.<br><br>
+</font>
+</p>
+<br>
+ <tittle>
+    	<em> <font size="6" color="A21F17" face="Comic Sans MS">7.Marco de Referencia:</font></tittle> </em>
+    	<br><br>
+  <p><font size="3" color="Black" face="Arial"><strong>¿Qué se investigara?</strong><br>
+  	Este proyecto será basado en un amplia investigación a causa de los problemas presentados.<br><br>
+  	<strong>¿Cual es la base teórica?</strong><br>
+  	Seguridad vial.
+Movilidad significa desplazamiento, siempre refiriéndose básicamente al movimiento o desplazamiento de una persona y/o vehículo por una vía.<br><br>
+<strong>¿Cómo se investigara?</strong><br>
+-Encuestas<br>
+-Proyecto<br>
+-Actividades<br><br>
+</font>
+</p>
+<br>
+ <tittle>
+    	<em> <font size="6" color="A21F17" face="Comic Sans MS">8.Metodología:</font></tittle> </em>
+    	<br><br>
+  <p><font size="3" color="Black" face="Arial">Nuestro tipo de metodología es estadístico y analógico.<br>
+  	</font>
+</p>
+<br>
+ <tittle>
+    	<em> <font size="6" color="A21F17" face="Comic Sans MS">9.Población y Muestra:</font></tittle> </em>
+    	<br><br>
+    	<center><img src="pobla.png" width="667" height="239"></center>
+    <br>
+ <tittle>
+    	<em> <font size="6" color="A21F17" face="Comic Sans MS">10.Recursos:</font></tittle> </em>
+    	<br><br>
+    	<center><img src="cuarecu.png" width="808" height="140"></center><br><br>
+    <tittle>
+    	<em> <font size="6" color="A21F17" face="Comic Sans MS">11.Cronograma:</font></tittle> </em>
+    	<br><br>
+    	<center><img src="crono.png" width="" height=""></center><br><br>
+    <tittle>
+    	<em> <font size="6" color="A21F17" face="Comic Sans MS">12.Alternativa y Solución :</font></tittle> </em>
+    	<br>	
+    <p><font size="3" color="Black" face="Arial">-Elaborar folletos con fin de mostrar información de dicha problemática.
+    	<br>
+-Realizar charlas informativas sobre los peligros de una mala movilidad vial en la ENSB y cómo se maneja en otros lugares comúnmente con este problema.<br>
+-Establecer controles de vigilancia en las cafeterías y restaurante de la ENSB para mitigar accidentes, desorden o que las personas se cuelen a la fila.<br><br>
+<tittle>
+    	<em> <font size="6" color="A21F17" face="Comic Sans MS">13.Anexos:</font></tittle> </em>
+    	<br><p><font size="3" color="Black" face="Arial">
+   <center> <strong>MODALIDADES DE MOVILIDAD</strong></center><br>
+<strong>Ruta Escolar: 
